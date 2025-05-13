@@ -13,6 +13,8 @@
 ## 🧠 Funcionalidade
 
 Este projeto utiliza um algoritmo de **recomendação de filmes** baseado em descrições textuais. Quando o usuário escolhe um filme da lista, o sistema sugere outros filmes similares com base nas descrições que são transformadas em vetores de texto.
+Teste aqui: 
+https://cineia-azzdy4y9dm8zxq3ireoean.streamlit.app/
 
 ## 🌐 Como Rodar Localmente
 
